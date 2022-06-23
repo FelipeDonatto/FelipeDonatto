@@ -29,18 +29,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/FelipeDonatto/FelipeDonatto/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/22vfz5jyauc76ryjrrop7kefq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=2&unique=true" alt="Spotify recently played"  />
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22vfz5jyauc76ryjrrop7kefq&unique={true|1|on|yes})
-  </a>
-</div>
-
-###
