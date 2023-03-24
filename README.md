@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Felipe Donatto and I'm a student at trybe.</h2>
+<h2 align="left">Hi 👋! My name is Felipe Donatto and I'm a fullstack developer.</h2>
 
 ###
 
