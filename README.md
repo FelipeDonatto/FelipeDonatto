@@ -29,5 +29,15 @@
 </div>
 
 ###
+###
+###
+
+<div>
+<img align="right" alt="Spotify list" width="200px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=8"/>
+<img align="right" alt="Spotify" width="200px" height="260px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/>
+</div>
+
+
+###
 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=FelipeDonatto"/>
