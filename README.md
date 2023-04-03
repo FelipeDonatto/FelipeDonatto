@@ -29,7 +29,7 @@
 </div>
 <hr> </hr>
 <div align="center">
-<img align="center" alt="Spotify list" width="250px" src="https://spotify-recently-played-readme.vercel.app/api?user=22vfz5jyauc76ryjrrop7kefq&count=8"/>
+<img align="center" alt="Spotify list" width="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=22vfz5jyauc76ryjrrop7kefq&count=8"/>
 </div>
 <div align="center">
 <hr> </hr>
