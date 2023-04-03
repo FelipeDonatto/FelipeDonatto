@@ -29,8 +29,7 @@
 </div>
 <hr> </hr>
 <div>
-<img align="right" alt="Spotify list" width="200px" src="https://spotify-recently-played-readme.vercel.app/api?user=22vfz5jyauc76ryjrrop7kefq&count=8"/>
+<img align="center" alt="Spotify list" width="200px" src="https://spotify-recently-played-readme.vercel.app/api?user=22vfz5jyauc76ryjrrop7kefq&count=8"/>
 </div>
-<hr> </hr>
 
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=FelipeDonatto"/>
+<img align="center" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=FelipeDonatto"/>
