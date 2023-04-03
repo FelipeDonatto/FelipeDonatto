@@ -27,17 +27,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<hr />
-###
-###
-###
-
+<hr> </hr>
 <div>
 <img align="right" alt="Spotify list" width="200px" src="https://spotify-recently-played-readme.vercel.app/api?user=22vfz5jyauc76ryjrrop7kefq&count=8"/>
-<img align="right" alt="Spotify" width="200px" height="260px" src="https://spotify-github-profile.vercel.app/api/view?uid=22vfz5jyauc76ryjrrop7kefq&cover_image=true&theme=default"/>
 </div>
-
-
-###
+<hr> </hr>
 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=FelipeDonatto"/>
