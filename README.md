@@ -32,7 +32,8 @@
 <img align="center" alt="Spotify list" width="350px" src="https://spotify-recently-played-readme.vercel.app/api?user=22vfz5jyauc76ryjrrop7kefq&count=8"/>
 </div>
 <div align="center">
-<img align="center" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=FelipeDonatto"/>
+<hr> <hr/>
+<img align="center" width="50px alt="Profile visitors" src="https://komarev.com/ghpvc/?username=FelipeDonatto"/>
 </div>
   
 
