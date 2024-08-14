@@ -30,7 +30,7 @@
 </div>
 <hr> </hr>
 <div align="center">
-<img align="center" alt="Spotify list" width="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22vfz5jyauc76ryjrrop7kefq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=9c4eb1&bar_color_cover=true"/>
+<img align="center" alt="Spotify list" width="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=22vfz5jyauc76ryjrrop7kefq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=9c4eb1&bar_color_cover=true"/>
 <img align="center" alt="Spotify list" width="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=22vfz5jyauc76ryjrrop7kefq&count=8"/>
 </div>
 <div align="center">
